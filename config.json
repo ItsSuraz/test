@@ -1,0 +1,71 @@
+{
+
+  "Botinfo": {
+    "Token": "ODY2MDA1Njk3MzAwNjYwMjI0.YPMQpw.xDmnqHJYegNvee82MtPU5pOEnSE",
+    "Prefix": "!",
+    "Name": "FaltPvP | Bot Official",
+    "Status": "Viendo FaltPvP | Discord Official", 
+    "Activity": "PLAYING",
+    "Playering": "PLAYING",
+    "URL": "",
+    "UseEmbeds": true,
+    "Cooldown": 3
+  },
+
+  "Verification": {
+    "Domain": "",
+    "Port": "3000",
+    "https": false,
+    "Privileged-intents": false,
+    "VerificationRoleID": "",
+    "secret-key": "",
+    "public-key": ""
+  },
+
+  "Ticket": {
+    "PanelMessageID": "886393703822917653",
+    "TicketCategoryID": "895719840264896533",
+    "TicketCategoryID2": "895719736137093160",
+    "TicketCategoryID3": "895719979654197318",
+    "SupportEmoji": "🤝",
+    "BuyEmoji": "💰",
+    "RewardsEmoji": "🎁",
+    "ColorPanelMessage": "#7f9cf5"
+
+  },
+  
+  "Giveaways": {
+    "BotsCanWin": false,
+    "EveryoneMention": false,
+    "HostedBy": true,
+    "GiveawayRole": "Giveaways",
+    "GiveawayEmoji": "🎉",
+    "EmojiGiveawayReaction": "🎉",
+    "EmbedColorEnd": "#fc0313",
+    "EmebdColor": "#0bfc03"
+  },
+
+  "Guild": {
+    "GuildID": "886322581995663380",
+    "OwnerID": "509924224157351945",
+    "DebugLevel": 0,
+    "OwnerRoleID": "886322746538229800",
+    "ManagementRoleID": "895718042057719828",
+    "AdminRoleID": "895718176346734682",
+    "StaffRoleID": "895718168612442113",
+    "SupportRoleID": "886322756046704680",
+    "LogsChannelID": "895717133097509005",
+    "TicketLogsChannelID": "894020242332860436",
+    "SuggestionChannelID": "",
+    "Thumbnail": "https://imgur.com/3HvcX0w.png"
+    },
+
+    "Stats": {
+      "Enabled": false,
+      "MemberCountID": "",
+      "HumanCountID": "",
+      "BotsCountID": "",
+      "BoostCountID": "",
+      "TextChannelCountID": ""
+    }
+  }
